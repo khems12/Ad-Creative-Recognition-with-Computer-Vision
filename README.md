@@ -6,6 +6,10 @@ This repository contains code for building an image classification model with an
 # Dataset
 The dataset used for training the model is available in a zip file hosted on Google Drive. You can download the dataset from the following link: https://drive.google.com/file/d/1R7jkssicFNCQDUbnH9pRb9_n90L5ufNp/view?usp=sharing 
 
+# Achievements
+* Accuracy: Approximately 97%
+* F1 Score: 0.97
+
 # Steps for Completion
 
 Data Pre-processing:
