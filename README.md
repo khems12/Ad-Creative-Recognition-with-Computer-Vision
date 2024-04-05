@@ -1,7 +1,7 @@
-# Image Classification with Attention Mechanism 
+# Adversial and Non-adversial Image Classification
 
 # Overview
-This repository contains code for building an image classification model with an attention mechanism using TensorFlow and Keras. The model is trained on a dataset consisting of approximately 4700 advertising images and 650 non-advertising images collected from various sources including web scraping, manual collection, and datasets from platforms like Kaggle and Hugging Face.
+This repository contains code for building an image classification model using TensorFlow and Keras. The model is trained on a dataset consisting of approximately 4700 advertising images and 650 non-advertising images collected from various sources including web scraping, manual collection, and datasets from platforms like Kaggle and Hugging Face.
 
 # Dataset
 The dataset used for training the model is available in a zip file hosted on Google Drive. You can download the dataset from the following link: https://drive.google.com/file/d/1R7jkssicFNCQDUbnH9pRb9_n90L5ufNp/view?usp=sharing 
